@@ -1,7 +1,7 @@
 # InsightProject
 
-##What's the storey?
-###Predicting Allowable Building Height for Empty Land Parcels in the City of Toronto
+## What's the storey?
+### Predicting Allowable Building Height for Empty Land Parcels in the City of Toronto
 
 
 Using current building data as training set to predict building heigts. The results can be used to predict the development potential for empty land parcels. 
