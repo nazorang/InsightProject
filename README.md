@@ -1,6 +1,6 @@
 # InsightProject
 
-## What's the storey?
+## What's the Storey?
 ### Predicting Allowable Building Height for Empty Land Parcels in the City of Toronto
 
 
